@@ -14,7 +14,7 @@
  */
 
 #include <Arduino.h>
-#include <EnhancedCANBus.h>
+#include <WaveshareCAN.h>
 
 // Pin definitions
 #define CAN_RX_PIN 19
